@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+button {
+    background-color: aqua;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 5px;
+    width: 200px;
+    border: 0;
+    border-radius: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: aqua;
+    border: 2px solid aqua;
+}
